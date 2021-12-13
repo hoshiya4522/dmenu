@@ -1,4 +1,4 @@
-static const char bar[]       = "#16161E";
+static const char bar[]       = "#1f2335";
 static const char hl[]       = "#7aa2f7";
 /* static const char sel[]       = "#c0caf5"; */
 static const char black[]       = "#c0caf5";
